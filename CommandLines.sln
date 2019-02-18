@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyConsoleExample", "ManyC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineUtilsExamples", "CommandLineUtilsExamples\CommandLineUtilsExamples.csproj", "{D1B155CD-B1D7-414D-BE2D-C28DABB3FE28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoOptionsExample", "MonoOptionsExample\MonoOptionsExample.csproj", "{33E62191-133B-43EE-9060-FD452D74D628}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{D1B155CD-B1D7-414D-BE2D-C28DABB3FE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1B155CD-B1D7-414D-BE2D-C28DABB3FE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1B155CD-B1D7-414D-BE2D-C28DABB3FE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E62191-133B-43EE-9060-FD452D74D628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E62191-133B-43EE-9060-FD452D74D628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E62191-133B-43EE-9060-FD452D74D628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E62191-133B-43EE-9060-FD452D74D628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
